@@ -15,14 +15,14 @@ from urllib.parse import urlparse, quote, urlunparse, unquote, parse_qs
 
 # ---------- CONFIG ----------
 SHOPI_API_URL = 'https://bhikari-production-bf277.up.railway.app/shopify'
-API_ID = 32143521
-API_HASH = '273161fdfe0b9256e1baca74825672fb'
-BOT_TOKEN = '9233378299:AAH5XvR6xbWHriiGqqPbkVsoXbnKjc2ihU4'
-ADMIN_IDS = [8866006557]
+API_ID = 30902136
+API_HASH = '7b0f10cfb0136dcb3f8f75037ccaf516'
+BOT_TOKEN = '9152653579:AAEuo3B5KaPpVjVlQKyZLQBH1Yqnd0Pmnq8 me'
+ADMIN_IDS = [7274586878]
 
 BOT_ICON = "[RowdyXChk]"   # plain watermark, no link
 
-DEV_USERNAME     = "Rowdyking07"
+DEV_USERNA9152653579:AAEuo3B5KaPpVjVlQKyZLQBH1Yqnd0Pmnq8ME     = "Rowdyking07"
 OWNER_USERNAME   = "Rowdyking07"
 SUPPORT_USERNAME = "Rowdyking07"
 
